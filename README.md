@@ -14,7 +14,7 @@ s využitím vstupu dle parametrů příkazové řádky interpretuje a generuje 
 
 <program language="IPPcode21">
   
-  <instruction order="1" opccode="CONCAT">
+  --<instruction order="1" opcode="CONCAT">
     
     <arg1 type="var">GF@counter</arg1>
     
