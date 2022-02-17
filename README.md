@@ -10,7 +10,7 @@ Skript (interpret.py ) načte XML reprezentaci programu a tento program
 s využitím vstupu dle parametrů příkazové řádky interpretuje a generuje výstup.
 
 
-#<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <program language="IPPcode21">
   
