@@ -26,7 +26,7 @@ s využitím vstupu dle parametrů příkazové řádky interpretuje a generuje 
  
 </program>
          
-IPPcode21
+.IPPcode21
 
 DEFVAR GF@counter
 
