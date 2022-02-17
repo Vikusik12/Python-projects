@@ -13,8 +13,12 @@ interpret - Implementation for interpreting unstructured imperative language IPP
   <instruction order="1" opccode="CONCAT">
     
     <arg1 type="var">GF@counter</arg1>
+    
     <arg2 type="var">GF@counter</arg2>
+    
     <arg3 type="string">hi</arg3>
+  
   </instruction>
- </program>
+ 
+</program>
          
